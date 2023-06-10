@@ -4,7 +4,7 @@ The Winner Determination Problem is a fundamental challenge in combinatorial auc
 winning prices for various auction lots. In this project, we adopt a hybrid approach by combining the BSO (Bees Swarm Optimization)
 metaheuristic technique with local search algorithms. 
 
-#Project Structure
+# Project Structure
 
 The project is organized as follows:
 
@@ -13,7 +13,7 @@ benchmarks/: This directory contains the files for testing and benchmarking the 
 Interface/: This directory contains the source code for the Java Swing-based user interface.
 
 
-#Prerequisites
+# Prerequisites
 
 Before running the code in this project, make sure the following prerequisites are installed:
 
