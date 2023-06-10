@@ -9,7 +9,9 @@ metaheuristic technique with local search algorithms.
 The project is organized as follows:
 
 methaheurstique/: This directory contains the resolution program's source code for implementing the metaheuristic algorithms.
+
 benchmarks/: This directory contains the files for testing and benchmarking the performance of the implemented algorithms.
+
 Interface/: This directory contains the source code for the Java Swing-based user interface.
 
 
